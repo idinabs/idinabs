@@ -1,1 +1,1 @@
-Hy Wadap
+Mengubah poros peradaban zaman sekarang
