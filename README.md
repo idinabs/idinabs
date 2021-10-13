@@ -1,5 +1,5 @@
 
-<h1 align="center">Changes The Civilization</h1>
+<h1 align="center">Change The Civilization</h1>
 
 <h1 align="center">Hi 👋, I'm Abubakar Sidik</h1>
 <h3 align="center">Coder From Dompu, Nusa Tenggara Barat Indonesia</h3>
