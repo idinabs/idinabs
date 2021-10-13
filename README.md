@@ -2,7 +2,7 @@
 <h1 align="center">Change The Civilization</h1>
 
 <h1 align="center">Hi 👋, I'm Abubakar Sidik</h1>
-<h3 align="center">Coder From Dompu, Nusa Tenggara Barat Indonesia</h3>
+<h3 align="center">Coder From Dompu, Nusa Tenggara Barat, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idinabs&label=Profile%20views&color=0e75b6&style=flat" alt="idinabs" /> </p>
 
