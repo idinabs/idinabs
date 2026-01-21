@@ -1,7 +1,7 @@
 
 <h1 align="center">Born To Make History</h1>
 
-<h1 align="center">Hi 👋, I'm Idin a.k.a Pablo</h1>
+<h1 align="center">Hi 👋, Call me Tot</h1>
 <h3 align="center">Coder From Dompu, Nusa Tenggara Barat, Indonesia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idinabs" alt="idinabs" /></a> </p>
