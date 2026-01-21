@@ -1,5 +1,5 @@
 
-<h1 align="center">Born To Make History</h1>
+<h1 align="center">Tomorrow will be fine</h1>
 
 <h1 align="center">Hi 👋, Call me Tot</h1>
 <h3 align="center">Coder From Dompu, Nusa Tenggara Barat, Indonesia</h3>
