@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# Hi, I'm Tot 👋
+# Hi, I'm
 ### Abubakar Sidik
 
-**IT PROJECT MANAGER · IT SYSTEMS ANALYST · IT BUSINESS ANALYST**
+**IT PROJECT MANAGEMENT · IT SYSTEMS ANALYST · IT BUSINESS ANALYST**
 **FULL-STACK DEVELOPER · AI & WORLD INTELLIGENCE ENGINEER**
 
 Building systems, connecting business processes, and exploring
