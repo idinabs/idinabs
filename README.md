@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# Hi, I'm
-### Abubakar Sidik
+# Hi, I'm Abubakar Sidik
+
 
 **IT PROJECT MANAGEMENT · IT SYSTEMS ANALYST · IT BUSINESS ANALYST**
 **FULL-STACK DEVELOPER · AI & WORLD INTELLIGENCE ENGINEER**
