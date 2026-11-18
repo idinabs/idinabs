@@ -59,7 +59,7 @@ My interests include:
 
 ## `$ featured_projects`
 
-### 01 / nawa.AI — World Intelligence Engine
+### World Intelligence Engine
 
 Enterprise intelligence and world modeling platform.
 
@@ -73,7 +73,7 @@ Enterprise intelligence and world modeling platform.
 
 ---
 
-### 02 / Rongko AI — AI Security & Infrastructure Orchestration
+### AI Security & Infrastructure Orchestration
 
 AI-enabled security analysis and infrastructure orchestration.
 
@@ -88,7 +88,7 @@ AI-enabled security analysis and infrastructure orchestration.
 
 ---
 
-### 03 / Enterprise Systems & Integration
+### Enterprise Systems & Integration
 
 Exploring enterprise application architecture and business
 system interoperability.
