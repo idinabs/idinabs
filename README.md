@@ -13,9 +13,6 @@ intelligent architectures.
 📍 Dompu, West Nusa Tenggara, Indonesia
 
 [![Email](https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idinabs43@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-idinabs-181717?style=for-the-badge&logo=github)](https://github.com/idinabs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://rongko.site)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__idinabs)
 
 *"Tomorrow will be fine."*
 
